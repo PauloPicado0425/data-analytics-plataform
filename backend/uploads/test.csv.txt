@@ -1,0 +1,4 @@
+nombre,edad,salario
+Juan,25,500
+Ana,30,700
+Luis,28,650
