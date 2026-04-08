@@ -94,9 +94,13 @@ Updated `.gitignore` and removed tracked files using `git rm --cached`.
 
 ## Usage
 1- Open: http://localhost:3000
+
 2- Upload a CSV file
+
 3- Click Analyze
+
 4- View charts and data
+
 5- Download PDF report
 
 Example CSV:
